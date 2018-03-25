@@ -22,7 +22,6 @@
 }
 -(void)fork22{
     NSLog(@"fork22");
-    NSLog(@"fork33");
 }
 
 - (void)didReceiveMemoryWarning {
