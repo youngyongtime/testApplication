@@ -23,7 +23,11 @@
     NSLog(@"fork11");
     NSLog(@"xxxxx");
 }
+
 -(void)forkAlien{
+}
+-(void)forkBill{
+
     
 }
 - (void)didReceiveMemoryWarning {
