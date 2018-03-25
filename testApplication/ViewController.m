@@ -17,10 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"3333333");
-
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
-
+-(void)fork22{
+    NSLog(@"========");
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
