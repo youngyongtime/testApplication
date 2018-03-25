@@ -20,7 +20,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(void)fork11{
-    
+    NSLog(@"fork11");
 }
 
 - (void)didReceiveMemoryWarning {
