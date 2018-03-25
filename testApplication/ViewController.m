@@ -21,6 +21,7 @@
 }
 -(void)fork11{
     NSLog(@"fork11");
+    NSLog(@"xxxxx");
 }
 
 - (void)didReceiveMemoryWarning {
