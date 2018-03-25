@@ -26,7 +26,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    NSLog(@"fork11");
+    NSLog(@"fork11111");
     // Dispose of any resources that can be recreated.
 }
 
