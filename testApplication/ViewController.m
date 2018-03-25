@@ -23,7 +23,9 @@
     NSLog(@"fork11");
     NSLog(@"xxxxx");
 }
-
+-(void)forkBill{
+    
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     NSLog(@"fork11111");
