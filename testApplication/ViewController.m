@@ -16,17 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"2222");
+    NSLog(@"3333333");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
--(void)fork11{
-    NSLog(@"fork11");
-    NSLog(@"xxxxx");
-}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    NSLog(@"fork11");
     // Dispose of any resources that can be recreated.
 }
 
